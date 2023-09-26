@@ -1,6 +1,6 @@
 ###
 HELLO
-Leah here,an aspiring engineer.Very excited to contribute to this platform.
+Leah here,an aspiring engineer.Very excited to contribute to this platform and to grow my skills.
 
 <!--
 **leahmaryjacob/leahmaryjacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
